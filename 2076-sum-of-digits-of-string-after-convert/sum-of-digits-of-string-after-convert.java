@@ -16,7 +16,6 @@ class Solution {
                Second Transform k = 1 par sum => 1+7 = 8. so, updating sb = 8;
              */ 
         }
-        // sb = new StringBuilder(String.valueOf(sum));
         return sum;
     }
 }
